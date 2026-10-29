@@ -1,4 +1,4 @@
-# ⚽ ScoutIQ — Football Transfer Value Predictor & Scouting Intelligence Platform
+#  ScoutIQ — Football Transfer Value Predictor & Scouting Intelligence Platform
 
 ScoutIQ estimates **Transfermarkt market values** of professional footballers from their previous-12-month
 performance, age, position, league and club context, then uses the model for scouting-style questions:
