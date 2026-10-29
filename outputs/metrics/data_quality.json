@@ -1,0 +1,44 @@
+{
+  "players_valid_position": 49563,
+  "covered_leagues": [
+    "BE1",
+    "DK1",
+    "ES1",
+    "FR1",
+    "GB1",
+    "GR1",
+    "IT1",
+    "L1",
+    "NL1",
+    "PO1",
+    "RU1",
+    "SC1",
+    "TR1",
+    "UKR1"
+  ],
+  "valuation_rows_raw": 656300,
+  "player_season_snapshots": 259677,
+  "after_league_coverage_filter": 169105,
+  "after_age_filter": 168661,
+  "after_min_minutes_filter": 63897,
+  "final_rows": 59171,
+  "final_players": 16913,
+  "rows_by_split": {
+    "train": 39311,
+    "val": 10076,
+    "test": 9784
+  },
+  "missing_rate": {
+    "foot": 0.0083,
+    "height_cm": 0.0061,
+    "club_games": 0.0532,
+    "club_ppg": 0.0532,
+    "club_gd_pg": 0.0532,
+    "availability": 0.0532,
+    "value_lag1": 0.0062,
+    "log_value_lag1": 0.0062,
+    "log_lag1_rel": 0.0062,
+    "log_value_trend": 0.0379,
+    "days_since_lag1": 0.0062
+  }
+}

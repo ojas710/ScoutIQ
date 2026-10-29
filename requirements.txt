@@ -1,0 +1,12 @@
+# Runtime (tested with Python 3.12). The saved model is a pickle: use the same scikit-learn version
+# (or retrain with `python -m src.train`).
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+scipy==1.17.1
+shap==0.54.1
+streamlit==1.66.1
+plotly==7.1.0
+matplotlib==3.10.8
+joblib==1.5.3
+pyarrow==26.0.0

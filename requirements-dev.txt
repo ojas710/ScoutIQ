@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest==9.1.1
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0
+playwright   # only for scripts/take_screenshots.py
